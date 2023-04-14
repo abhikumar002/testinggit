@@ -1,0 +1,4 @@
+1 -> git clone "git clone url" in cmd 
+2 -> git init (for initailize source control) 
+3 -> git add . (for push all changes)
+4 -> git commit -a -m "your commit msg "  (a means all files) (m means message)
