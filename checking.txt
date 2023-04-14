@@ -10,3 +10,19 @@ Another branch adding
 
 7 -> from github create new branch
 8 -> git checkout Sprint (import in vs code)
+
+pull branch in vs code
+
+9 -> git pull origin master or git pull
+
+remote add
+
+10 -> git remote -v (present origin remote)
+11 -> git remote add superman "url https"  
+
+Stash used commands
+12 -> git Stash (this give that's id ) or git stash -m "your msg" 
+13 -> git stash list
+14 -> git stash apply or latest apply 
+              or
+      git stash apply stash@{2}
