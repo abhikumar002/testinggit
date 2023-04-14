@@ -2,3 +2,5 @@
 2 -> git init (for initailize source control) 
 3 -> git add . (for push all changes)
 4 -> git commit -a -m "your commit msg "  (a means all files) (m means message)
+5 -> add remote to your online repo.
+6 -> git push origin master   (origin="your remote name ", master=" where branch push that changes ")
